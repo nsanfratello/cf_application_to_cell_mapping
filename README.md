@@ -1,5 +1,6 @@
 ###PREREQUISITES
- Log into your cf instance's ORG/SPACE
+1. ssh needs to be enabled on your cf instance
+2. Log into your cf instance's ORG/SPACE
 
 `Usage: cf login -o ORG -s SPACE`
 
